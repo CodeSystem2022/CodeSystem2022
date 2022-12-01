@@ -1,7 +1,7 @@
 # CodeSystem2022
 Here is your school
 <div align="center">
-<img src="https://user-images.githubusercontent.com/105942321/204525558-e0c605da-e0f7-4a07-8b92-c90c1cc8775a.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/105942321/204943463-94cd5ec9-7bb3-47d6-8b56-10122a495753.gif" align="center" style="width: 100%" />
 </div>  
   
 
